@@ -1,0 +1,7 @@
+.hidden {
+				display:none;
+			}
+
+			.will_change_transform {
+				will-change: transform;
+			}
