@@ -1,0 +1,1 @@
+# verify-theme-static-files
